@@ -1,0 +1,13 @@
+Education,Sector,stat
+No certificate,Nonprofit,1
+High school diploma,Nonprofit,12
+Apprenticeship or trade diploma,Nonprofit,1
+College or CEGEP,Nonprofit,23
+University diploma,Nonprofit,4
+Bachelor or above,Nonprofit,59
+No certificate,Other,1
+High school diploma,Other,10
+Apprenticeship or trade diploma,Other,2
+College or CEGEP,Other,18
+University diploma,Other,3
+Bachelor or above,Other,66

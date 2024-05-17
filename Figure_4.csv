@@ -1,0 +1,21 @@
+Age,Sector,Occupation,stat
+15-24,Nonprofit,Tech Worker,18000
+25-34,Nonprofit,Tech Worker,46300
+35-44,Nonprofit,Tech Worker,68800
+45-54,Nonprofit,Tech Worker,73000
+55+,Nonprofit,Tech Worker,70000
+15-24,Other,Tech Worker,27150
+25-34,Other,Tech Worker,68800
+35-44,Other,Tech Worker,95800
+45-54,Other,Tech Worker,112400
+55+,Other,Tech Worker,95800
+15-24,Nonprofit,Other Work,13920
+25-34,Nonprofit,Other Work,32700
+35-44,Nonprofit,Other Work,40000
+45-54,Nonprofit,Other Work,45000
+55+,Nonprofit,Other Work,36300
+15-24,Other,Other Work,14400
+25-34,Other,Other Work,42100
+35-44,Other,Other Work,57600
+45-54,Other,Other Work,64600
+55+,Other,Other Work,49800

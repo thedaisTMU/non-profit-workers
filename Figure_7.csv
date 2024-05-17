@@ -1,0 +1,25 @@
+Education,Sector,Occupation,stat
+No certificate,Nonprofit,Tech Worker,60000
+High school diploma,Nonprofit,Tech Worker,42800
+Apprenticeship or trade diploma,Nonprofit,Tech Worker,44000
+College or CEGEP,Nonprofit,Tech Worker,59100
+University diploma,Nonprofit,Tech Worker,58000
+Bachelor or above,Nonprofit,Tech Worker,64400
+No certificate,Other,Tech Worker,64600
+High school diploma,Other,Tech Worker,58700
+Apprenticeship or trade diploma,Other,Tech Worker,61500
+College or CEGEP,Other,Tech Worker,74800
+University diploma,Other,Tech Worker,74800
+Bachelor or above,Other,Tech Worker,95800
+No certificate,Nonprofit,Other Work,17040
+High school diploma,Nonprofit,Other Work,22440
+Apprenticeship or trade diploma,Nonprofit,Other Work,26950
+College or CEGEP,Nonprofit,Other Work,33000
+University diploma,Nonprofit,Other Work,36900
+Bachelor or above,Nonprofit,Other Work,48000
+No certificate,Other,Other Work,26250
+High school diploma,Other,Other Work,34400
+Apprenticeship or trade diploma,Other,Other Work,48100
+College or CEGEP,Other,Other Work,46500
+University diploma,Other,Other Work,46800
+Bachelor or above,Other,Other Work,67800
